@@ -6,4 +6,3 @@ def read_file(filename: str):
     """
     with open(filename) as f:
         return f.read()
-
